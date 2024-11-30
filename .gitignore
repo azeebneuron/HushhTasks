@@ -1,0 +1,175 @@
+# Environment variables and secrets
+.env
+.env.*
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.python-version
+.virtualenv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+*.postgresql
+*.mysql
+
+# IDE - Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# IDE - PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# IDE - Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+.testmondata
+.tmontmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.jupyter/
+*.ipynb
+
+# Distribution/packaging
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Temporary files
+*.swp
+*.swo
+*~
+tmp/
+temp/
+
+# Documentation
+docs/_build/
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# FastAPI
+instance/
+
+# Node (if using any JavaScript tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Local development
+local_settings.py
+db.sqlite3-journal
+media/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Large LLM model files
+*.bin
+*.gguf
+*.model
+models/
+weights/
+llama*
+part2_task/models/
+part2_task/weights/
+
+# Any other large binary files
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.pb
+*.tflite
+*.hdf5

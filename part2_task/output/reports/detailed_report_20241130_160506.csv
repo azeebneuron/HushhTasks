@@ -1,0 +1,2 @@
+text_type,sentiment_match,topic_overlap,confidence_difference
+technical_blog,False,0.8333333333333334,0.0

@@ -1,0 +1,9 @@
+pandas
+numpy
+psycopg2-binary
+python-dotenv
+supabase
+schedule
+pandas
+python-dotenv
+supabase

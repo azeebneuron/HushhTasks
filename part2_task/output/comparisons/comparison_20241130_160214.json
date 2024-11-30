@@ -1,0 +1,37 @@
+{
+  "timestamp": "2024-11-30T16:02:14.506414",
+  "metrics": {
+    "sentiment_match": true,
+    "topic_overlap": 0.6666666666666666,
+    "confidence_difference": 0.09999999999999998,
+    "summary_similarity": 0.2619047619047619
+  },
+  "responses": {
+    "gemini": {
+      "sentiment": "positive",
+      "key_topics": [
+        "machine learning",
+        "natural language processing",
+        "computer vision",
+        "autonomous systems",
+        "bias mitigation",
+        "model interpretability"
+      ],
+      "summary": "Machine learning has revolutionized the tech industry, enabling breakthroughs in various areas. However, challenges remain in bias mitigation and model interpretability.",
+      "timestamp": "2024-11-30 16:01:54.603957",
+      "confidence_score": 0.9
+    },
+    "llama": {
+      "sentiment": "positive",
+      "key_topics": [
+        "machine learning",
+        "natural language processing",
+        "computer vision",
+        "autonomous systems"
+      ],
+      "summary": "The text discusses the positive impact of machine learning on the tech industry, particularly in the areas of natural language processing, computer vision, and autonomous systems. However, the article also notes that challenges remain in mitigating bias and interpreting models.",
+      "timestamp": "2024-11-30 16:02:14.506269",
+      "confidence_score": 0.8
+    }
+  }
+}

@@ -1,0 +1,48 @@
+2024-11-30 17:23:00,809 - INFO - Starting daily analytics job
+2024-11-30 17:23:01,729 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_daily_ctr "HTTP/2 200 OK"
+2024-11-30 17:23:01,894 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_top_queries "HTTP/2 200 OK"
+2024-11-30 17:23:02,152 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_low_performing "HTTP/2 200 OK"
+2024-11-30 17:23:02,219 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/search_insights "HTTP/2 201 Created"
+2024-11-30 17:23:02,221 - INFO - Successfully saved insights for 2024-11-30
+2024-11-30 17:23:02,221 - INFO - Average CTR: 9.02%
+2024-11-30 17:23:02,221 - INFO - Job completed successfully
+2024-11-30 17:24:00,747 - INFO - Starting daily analytics job
+2024-11-30 17:24:01,078 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_daily_ctr "HTTP/2 200 OK"
+2024-11-30 17:24:01,136 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_top_queries "HTTP/2 200 OK"
+2024-11-30 17:24:01,202 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_low_performing "HTTP/2 200 OK"
+2024-11-30 17:24:01,274 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/search_insights "HTTP/2 201 Created"
+2024-11-30 17:24:01,279 - INFO - Successfully saved insights for 2024-11-30
+2024-11-30 17:24:01,279 - INFO - Average CTR: 9.02%
+2024-11-30 17:24:01,279 - INFO - Job completed successfully
+2024-11-30 17:25:00,830 - INFO - Starting daily analytics job
+2024-11-30 17:25:01,211 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_daily_ctr "HTTP/2 200 OK"
+2024-11-30 17:25:01,281 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_top_queries "HTTP/2 200 OK"
+2024-11-30 17:25:01,412 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_low_performing "HTTP/2 200 OK"
+2024-11-30 17:25:01,503 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/search_insights "HTTP/2 201 Created"
+2024-11-30 17:25:01,507 - INFO - Successfully saved insights for 2024-11-30
+2024-11-30 17:25:01,507 - INFO - Average CTR: 9.02%
+2024-11-30 17:25:01,507 - INFO - Job completed successfully
+2024-11-30 17:30:01,036 - INFO - Starting daily analytics job
+2024-11-30 17:30:01,368 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_daily_ctr "HTTP/2 200 OK"
+2024-11-30 17:30:01,428 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_top_queries "HTTP/2 200 OK"
+2024-11-30 17:30:01,496 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/rpc/get_low_performing "HTTP/2 200 OK"
+2024-11-30 17:30:01,559 - INFO - HTTP Request: POST https://krtisxzhiwlviaaadmmx.supabase.co/rest/v1/search_insights "HTTP/2 201 Created"
+2024-11-30 17:30:01,561 - INFO - 
+Analytics Results for 2024-11-30:
+2024-11-30 17:30:01,561 - INFO - 
+1. Daily Average CTR: 9.02%
+2024-11-30 17:30:01,561 - INFO - 
+2. Top Performing Queries:
+2024-11-30 17:30:01,561 - INFO -     Query: phone case, CTR: 15.20%, Impressions: 12848
+    Query: laptop bag, CTR: 15.20%, Impressions: 10197
+    Query: gaming mouse, CTR: 15.13%, Impressions: 10623
+    Query: running shoes, CTR: 15.12%, Impressions: 11266
+    Query: yoga mat, CTR: 15.07%, Impressions: 12377
+2024-11-30 17:30:01,561 - INFO - 
+3. Queries Needing Optimization:
+2024-11-30 17:30:01,561 - INFO -     Query: what is machine learning, CTR: 4.92%, Impressions: 6153
+    Query: healthy breakfast ideas, CTR: 4.94%, Impressions: 5169
+    Query: how to start gym, CTR: 4.98%, Impressions: 5008
+    Query: basic photography tips, CTR: 4.94%, Impressions: 4448
+2024-11-30 17:30:01,561 - INFO - 
+Job completed successfully
